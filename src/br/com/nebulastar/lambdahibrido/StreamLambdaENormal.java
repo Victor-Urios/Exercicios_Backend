@@ -10,7 +10,7 @@ public class StreamLambdaENormal {
 
     // tarefa refeita usando em base a collections
 
-        public static void main(String[] args) {
+        static void main(String[] args) {
 
             Scanner scanner = new Scanner(System.in);
 
@@ -52,3 +52,4 @@ public class StreamLambdaENormal {
             scanner.close();
         }
     }
+
